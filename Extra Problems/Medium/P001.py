@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jul  3 19:39:39 2021
 
-@author: GEC DAHOD
-"""
 #Python program to print all Prime numbers in an Interval
 
 first = int(input("Enter: "))
