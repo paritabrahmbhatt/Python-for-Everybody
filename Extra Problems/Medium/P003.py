@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul  8 11:55:34 2021
 
-@author: GEC DAHOD
-"""
 #Python Program for Sum of squares of first n natural numbers
 
 n = int(input("Enter: "))
