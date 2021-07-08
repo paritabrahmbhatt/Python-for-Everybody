@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jul  3 16:56:16 2021
-
-@author: GEC DAHOD
-"""
 #Python Program for compound interest
 
 p = int(input("Enter Principle value: "))
