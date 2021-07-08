@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jul  4 19:06:09 2021
 
-@author: GEC DAHOD
-"""
 #Find the index value of the number of array
 
 from array import *
