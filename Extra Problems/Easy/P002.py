@@ -1,11 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jul  2 09:09:55 2021
 
-@author: GEC DAHOD
-"""
-#Maximum of two numbers in Python
-"""
+#Maximum of two numbers in Pyth
 n1 = -22
 n2 = -21
 
