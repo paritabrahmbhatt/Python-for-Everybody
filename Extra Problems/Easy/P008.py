@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jul  3 22:02:57 2021
 
-@author: GEC DAHOD
-"""
 
 # Find the digits of the number
 
