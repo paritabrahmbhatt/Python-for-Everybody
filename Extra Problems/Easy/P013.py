@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jul  4 08:50:50 2021
-
-@author: GEC DAHOD
-"""
-
 # Python program to illustrate
 # Iterating over a list
 
