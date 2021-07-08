@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jul  4 11:16:00 2021
-
-@author: GEC DAHOD
-"""
 #Print pattern
 
 # # #
