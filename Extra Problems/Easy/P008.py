@@ -1,5 +1,3 @@
-
-
 # Find the digits of the number
 
 a = 1234
