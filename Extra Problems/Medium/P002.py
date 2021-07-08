@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jul  3 22:01:03 2021
-
-@author: GEC DAHOD
-"""
-
-
 # Python Program to check Armstrong Number
 
 a = int(input("Enter: "))
