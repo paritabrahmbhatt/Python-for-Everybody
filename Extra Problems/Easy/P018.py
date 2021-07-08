@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jul  4 15:43:03 2021
-
-@author: GEC DAHOD
-"""
 # Array Value form users
 
 from array import *
