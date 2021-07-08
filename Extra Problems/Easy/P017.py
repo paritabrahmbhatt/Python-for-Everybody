@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jul  4 12:34:29 2021
 
-@author: GEC DAHOD
-"""
 #Print all the elements of array
 
 from array import *
