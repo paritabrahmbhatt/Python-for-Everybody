@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jul  3 16:48:42 2021
 
-@author: GEC DAHOD
-"""
 # Python Program for factorial of a number
 
 x = int(input("Enter a number: "))
