@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jul  2 08:53:47 2021
-
-@author: GEC DAHOD
-"""
 # Adding two number provided by user input
 
 number1 = input("First number: ")
