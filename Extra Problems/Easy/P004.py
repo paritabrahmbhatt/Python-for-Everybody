@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jul  3 13:33:50 2021
-
-@author: GEC DAHOD
-"""
-
 # Pattern
 '''
 * * * *
