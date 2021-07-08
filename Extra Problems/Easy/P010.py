@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jul  3 22:20:51 2021
-
-@author: GEC DAHOD
-"""
 #Python program to check whether a number is Prime or not
 
 a = int(input("Enter: "))
