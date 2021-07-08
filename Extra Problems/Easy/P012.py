@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jul  4 08:37:14 2021
-
-@author: GEC DAHOD
-"""
-
 # Python Program to check if a given number is Fibonacci number?
 
 n = int(input("Enter the number: "))
