@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jul  4 06:48:55 2021
-
-@author: GEC DAHOD
-"""
 #Python Program for n-th Fibonacci number
 
 s = 0
