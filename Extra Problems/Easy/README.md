@@ -21,3 +21,6 @@
 |18| Take array values form user|
 |19|Find the index value of the number of array|
 |20|Create an array with 5 values & delete the value at index no. 2|
+|21|Program to print ASCII Value of a character|
+|22|Print lists in Python in 3 Different Ways|
+|23|Given a string of binary numbers (0s and 1s), convert it to decimal number|
