@@ -24,3 +24,4 @@
 |21|Program to print ASCII Value of a character|
 |22|Print lists in Python in 3 Different Ways|
 |23|Given a string of binary numbers (0s and 1s), convert it to decimal number|
+|24|Print Pattern of Falling Star|
