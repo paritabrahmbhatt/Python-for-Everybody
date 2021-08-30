@@ -2,7 +2,7 @@
 """
 Created on Thu Jul  8 16:42:14 2021
 
-@author: GEC DAHOD
+@author: Parita 
 """
 #Print lists in Python in 3 Different Ways
 
