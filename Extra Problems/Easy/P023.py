@@ -2,7 +2,7 @@
 """
 Created on Mon Aug 30 06:34:55 2021
 
-@author: GEC DAHOD
+@author: Parita
 """
 #Given a string of binary numbers (0s and 1s), convert it to decimal number.
 
