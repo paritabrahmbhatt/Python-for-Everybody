@@ -26,3 +26,4 @@
 |23|Given a string of binary numbers (0s and 1s), convert it to decimal number|
 |24|Print Pattern of Falling Star|
 |25|Rock, Paper, Scissor|
+|26|Print a pattern|
